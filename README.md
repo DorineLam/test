@@ -26,6 +26,11 @@ Nam ac diam et libero sagittis aliquam. Donec sit amet lacus convallis nibh cond
 
 Proin posuere ante lorem, a condimentum nisi euismod ac. Duis ac viverra nulla. Maecenas volutpat ligula ligula, vitae vestibulum justo rhoncus eget. Suspendisse potenti. Phasellus ultricies velit sit amet leo dictum congue. Vestibulum fermentum erat nunc, luctus ornare justo maximus et. Vestibulum ac consequat ipsum.
 
+
+| Titre | infos | Colonne
+| ---- | ---- |----|
+| lorem |lorem | lorem|
+
 ### Galerie
 - ![Le défi en cours de préparation](hackathon/images/image2.png)
 - ![Image de résultat](hackathon/images/image3.png)
